@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
         print("ar izavs")
         print("gaaketa!")
 
+        print("lsagndkasjn")
+
     }
 }
